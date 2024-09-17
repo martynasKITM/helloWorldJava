@@ -5,6 +5,7 @@ public class Main {
        float sum = 12.45F;
 
        System.out.println("Suma yra: " + sum + " Labai gerai");
+       System.out.println("Sveiki");
 
     }
 }
